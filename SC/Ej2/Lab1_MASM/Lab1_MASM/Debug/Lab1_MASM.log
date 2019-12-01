@@ -1,0 +1,3 @@
+﻿  Assembling Final.asm...
+c:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Lab1_MASM.vcxproj -> C:\Users\hichi\source\repos\Lab1_MASM\Debug\Lab1_MASM.exe
